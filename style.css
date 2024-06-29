@@ -4,7 +4,7 @@
 html, body {
     position: relative;
     min-height: 100vh;
-    background-color: #e7ebee;
+    background-color: #3B507D;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -16,8 +16,8 @@ html, body {
 .form-structor {
     background-color: #222;
     border-radius: 15px;
-    height: 500px;
-    width: 400px;
+    height: 600px;
+    width: 500px;
     position: relative;
     overflow: hidden;
 }
