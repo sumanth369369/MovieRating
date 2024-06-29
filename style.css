@@ -16,8 +16,8 @@ html, body {
 .form-structor {
     background-color: #222;
     border-radius: 15px;
-    height: 600px;
-    width: 500px;
+    height: 500px;
+    width: 400px;
     position: relative;
     overflow: hidden;
 }
@@ -33,7 +33,7 @@ html, body {
     background-repeat: no-repeat;
     background-position: left bottom;
     background-size: 500px;
-    background-image: url('https://github.com/sumanth369369/MovieRating/blob/main/Netflix-plan-anuncios-precios.jpeg?raw=true');
+    background-image: url('https://www.cabletv.com/app/uploads/2021/07/Netflix-Scrn-1.jpg');
 }
 
 .signup {
