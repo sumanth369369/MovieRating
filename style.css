@@ -33,7 +33,7 @@ html, body {
     background-repeat: no-repeat;
     background-position: left bottom;
     background-size: 500px;
-    background-image: url('./imagess/Netflix-plan-anuncios-precios.jpeg');
+    background-image: url('https://github.com/sumanth369369/MovieRating/blob/main/Netflix-plan-anuncios-precios.jpeg?raw=true');
 }
 
 .signup {
