@@ -16,8 +16,8 @@ html, body {
 .form-structor {
     background-color: #222;
     border-radius: 15px;
-    height: 500px;
-    width: 400px;
+    height: 600px;
+    width: 500px;
     position: relative;
     overflow: hidden;
 }
